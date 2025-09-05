@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message : "Welcome to EazyBank accounts Production APIs"
+  message : "Welcome to EazyBank accounts Prod APIs"
   contactDetails:
     name: "Ankit Bisen- Product owner"
     email: "ankitbisen21@gmail.com"
