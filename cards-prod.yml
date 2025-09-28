@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message : "Welcome to EazyBank Cards related webhh APIs"
+  message : "Welcome to EazyBank Cards related webhook APIs"
   contactDetails:
     name: "Ankit Bisen- Java Developer"
     email: "akitbisen21@gmail.com"
